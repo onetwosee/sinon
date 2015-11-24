@@ -1,8 +1,6 @@
 # Sinon.JS
 
-[![Join the chat at https://gitter.im/sinonjs/sinon](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sinonjs/sinon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Build status](https://secure.travis-ci.org/sinonjs/sinon.svg?branch=master)](http://travis-ci.org/sinonjs/sinon) [![bitHound Score](https://www.bithound.io/github/sinonjs/sinon/badges/score.svg)](https://www.bithound.io/github/sinonjs/sinon)
+[![Build status](https://secure.travis-ci.org/cjohansen/Sinon.JS.svg?branch=master)](http://travis-ci.org/cjohansen/Sinon.JS)
 
 Standalone and test framework agnostic JavaScript test spies, stubs and mocks.
 
@@ -24,9 +22,7 @@ Don't forget to include the parts of Sinon.JS that you want to use as well
 
 ## Usage
 
-See the [sinon project homepage](http://sinonjs.org/) for documentation on usage.
-
-If you have questions that are not covered by the documentation, please post them to the [Sinon.JS mailing list](http://groups.google.com/group/sinonjs) or drop by <a href="irc://irc.freenode.net:6667/sinon.js">#sinon.js on irc.freenode.net:6667</a>
+See the [sinon project homepage](http://sinonjs.org/)
 
 ### Important: AMD needs pre-built version
 
